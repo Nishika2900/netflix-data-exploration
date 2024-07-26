@@ -14,7 +14,7 @@ A comprehensive analysis and visualization of Netflix data using Python librarie
 This project aims to explore the Netflix dataset to uncover insights and trends. The analysis involves data cleaning, exploratory data analysis (EDA), and creating visualizations to represent the findings.
 
 ## Data Source
-The dataset used in this project is sourced from [Scaler](https://www.scaler.com).
+The dataset used in this project is sourced from [Scaler]('https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv').
 
 ## Technologies Used
 - Python
